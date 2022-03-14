@@ -1,0 +1,15 @@
+{
+  "name": "url",
+  "version": "1.0.0",
+  "description": "",
+  "main": "01-url.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "log4js": "^6.4.1"
+  }
+}

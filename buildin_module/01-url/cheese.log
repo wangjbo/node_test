@@ -1,0 +1,15 @@
+[2022-02-03T10:48:37.938] [DEBUG] chees - Url {
+  protocol: 'http:',
+  slashes: true,
+  auth: null,
+  host: 'www.baidu.com:443',
+  port: '443',
+  hostname: 'www.baidu.com',
+  hash: '#tag=3',
+  search: '?username=wjb&password=123',
+  query: 'username=wjb&password=123',
+  pathname: '/',
+  path: '/?username=wjb&password=123',
+  href: 'http://www.baidu.com:443/?username=wjb&password=123#tag=3'
+}
+[2022-02-03T11:09:11.641] [DEBUG] chees - wjb
